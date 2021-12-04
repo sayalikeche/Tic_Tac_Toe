@@ -1,16 +1,14 @@
 using System;
-
+using System.Collections.Generic;
+using System.Text;
 
 namespace Tic_Tac_Toe
 {
-   
-    public class Program
+    class Tic_Tac_toe
     {
-     
-        public void Main (string[]args)
-
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Tic_Tac_Toe Game");
+            Console.Writeline("Welcome to Tic_Tac_Toe");
         }
     }
 }
